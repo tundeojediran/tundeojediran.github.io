@@ -1,3 +1,3 @@
 # tundeojediran.github.io
 
-Life is short. Build awesome stuffs 🙂
+Time is short. Build awesome stuffs 🙂
