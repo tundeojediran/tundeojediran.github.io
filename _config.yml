@@ -1,8 +1,8 @@
 # Site settings
 title: Daniel Tunde Ojediran
 description: 'Time is short. Build awesome stuffs!!! 🙂'
-url: 'https://tundeojediran.github.io/'
-baseurl: ''
+url: 'https://tundeojediran.github.io/tundeoojediran'
+baseurl: '/tundeojediran/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 

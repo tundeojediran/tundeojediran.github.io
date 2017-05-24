@@ -3,7 +3,7 @@
   
     
     <url>
-      <loc>https://tundeojediran.github.io//2017/in-the-beginning/</loc>
+      <loc>https://tundeojediran.github.io/tundeoojediran/2017/in-the-beginning/</loc>
       
         <lastmod>2017-05-24T04:00:00+01:00</lastmod>
       
@@ -19,24 +19,9 @@
   
     
     <url>
-      <loc>https://tundeojediran.github.io//categories/</loc>
+      <loc>https://tundeojediran.github.io/tundeoojediran/categories/</loc>
       
-        <lastmod>2017-05-24T05:26:59+01:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://tundeojediran.github.io//feed.xml</loc>
-      
-        <lastmod>2017-05-24T05:26:59+01:00</lastmod>
+        <lastmod>2017-05-24T08:29:10+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -49,9 +34,9 @@
   
     
     <url>
-      <loc>https://tundeojediran.github.io//</loc>
+      <loc>https://tundeojediran.github.io/tundeoojediran/feed.xml</loc>
       
-        <lastmod>2017-05-24T05:26:59+01:00</lastmod>
+        <lastmod>2017-05-24T08:29:10+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -64,9 +49,24 @@
   
     
     <url>
-      <loc>https://tundeojediran.github.io//js/main.js</loc>
+      <loc>https://tundeojediran.github.io/tundeoojediran/</loc>
       
-        <lastmod>2017-05-24T05:26:59+01:00</lastmod>
+        <lastmod>2017-05-24T08:29:10+01:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://tundeojediran.github.io/tundeoojediran/js/main.js</loc>
+      
+        <lastmod>2017-05-24T08:29:10+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -81,9 +81,9 @@
   
     
     <url>
-      <loc>https://tundeojediran.github.io//tags/</loc>
+      <loc>https://tundeojediran.github.io/tundeoojediran/tags/</loc>
       
-        <lastmod>2017-05-24T05:26:59+01:00</lastmod>
+        <lastmod>2017-05-24T08:29:10+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
