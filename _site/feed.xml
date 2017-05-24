@@ -1,41 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jekyll-Uno</title>
-    <description>Jekyll-Uno - a minimal, responsive theme for Jekyll</description>
-    <link>http://joshgerdes.com/jekyll-uno/jekyll-uno//</link>
-    <atom:link href="http://joshgerdes.com/jekyll-uno/jekyll-uno//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 23 May 2017 10:49:21 +0100</pubDate>
-    <lastBuildDate>Tue, 23 May 2017 10:49:21 +0100</lastBuildDate>
+    <title>Daniel Tunde Ojediran</title>
+    <description>Time is short. Build awesome stuffs!!! 🙂</description>
+    <link>https://tundeojediran.github.io//tundeojediran//</link>
+    <atom:link href="https://tundeojediran.github.io//tundeojediran//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 24 May 2017 05:10:15 +0100</pubDate>
+    <lastBuildDate>Wed, 24 May 2017 05:10:15 +0100</lastBuildDate>
     <generator>Jekyll v3.0.2</generator>
     
       <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve --watch&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+        <title>In The Beginning!</title>
+        <description>&lt;p&gt;My name is Daniel Tunde Ojediran, a Software Engineer and a User Interface Designer.&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;My areas of expertise are Android Development, Front End Development and User Interface Design
+My affinity for good design has triggered my interest in the field of User Experience to see how best to satisfy people who use the products I have worked on.&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt;So, here is my little space on the humongous web, where I get to showcase my portfolio and blog about products I have built and technologies I have used
+Hopefully, you will learn a thing or two.&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;Tom&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &#39;Hi, Tom&#39; to STDOUT.&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
+&lt;p&gt;And if you ever need a Software Engineer or a User Interface Designer, do not hesitate to &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#116;&amp;#117;&amp;#110;&amp;#100;&amp;#101;&amp;#111;&amp;#106;&amp;#101;&amp;#100;&amp;#105;&amp;#114;&amp;#097;&amp;#110;&amp;#064;&amp;#103;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&quot;&gt;contact&lt;/a&gt; me. Time is short, you know. 😉&lt;/p&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+&lt;!-- Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help]. --&gt;
 
+&lt;!-- [jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-help]: https://github.com/jekyll/jekyll-help --&gt;
 </description>
-        <pubDate>Fri, 08 Jan 2016 16:04:23 +0100</pubDate>
-        <link>http://joshgerdes.com/jekyll-uno/jekyll-uno//2016/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://joshgerdes.com/jekyll-uno/jekyll-uno//2016/welcome-to-jekyll/</guid>
+        <pubDate>Wed, 24 May 2017 04:00:00 +0100</pubDate>
+        <link>https://tundeojediran.github.io//tundeojediran//2017/in-the-beginning/</link>
+        <guid isPermaLink="true">https://tundeojediran.github.io//tundeojediran//2017/in-the-beginning/</guid>
         
-        <category>jekyll</category>
+        <category>self</category>
         
         
-        <category>jekyll</category>
+        <category>self</category>
         
       </item>
     
